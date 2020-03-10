@@ -25,7 +25,7 @@
   	<junit.version>4.9</junit.version>
   	<servlet-api.version>8.5.32</servlet-api.version>
   	<jsp-api.version>8.5.32</jsp-api.version>
-  	<c3p0.version>0.9.5.2</c3p0.version>
+  	<c3p0.version>0.9.5.4</c3p0.version>
   	<!-- plugins version -->
   	<maven-compiler-plugin.version>3.8.0</maven-compiler-plugin.version>
   	<tomcat7-maven-plugin.version>2.2</tomcat7-maven-plugin.version>
